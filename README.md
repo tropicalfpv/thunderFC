@@ -1,3 +1,6 @@
+
+![Full HD](https://github.com/tropicalfpv/thunderFC/assets/11741656/0a1cf006-fb33-44e8-8ded-991cdb700863)
+
 # THUNDER F722 FLIGHT CONTROLLER
 A simple, one-sided, cheap flight controller for the practical FPV Pilot.
 
