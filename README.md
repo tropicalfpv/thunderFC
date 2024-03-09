@@ -1,7 +1,7 @@
 
 ![Full HD](https://github.com/tropicalfpv/thunderFC/assets/11741656/0a1cf006-fb33-44e8-8ded-991cdb700863)
 
-# THUNDER F722 FLIGHT CONTROLLER
+# ⚡ Thunder F722 Drone Flight Controller ⚡
 A simple, one-sided, cheap flight controller for the practical FPV Pilot.
 
 ## Quick Notice :dollar:
@@ -25,8 +25,6 @@ This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 
 
 ## Found a Problem? :goberserk:
 It's ok, you don't need to fix it, you can let us know to do so. Just [open an Issue here][3] and be detailed about what happened. 
-
-
 
 
 [1]: https://patreon.com/TropicalFPV
